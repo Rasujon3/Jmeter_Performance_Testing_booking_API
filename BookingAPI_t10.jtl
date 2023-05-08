@@ -1,0 +1,81 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1683391971666,1812,Auth,200,OK,BookingAPI 1-2,text,true,,271,260,3,3,https://restful-booker.herokuapp.com/auth,1811,0,1463
+1683391970866,2595,Auth,200,OK,BookingAPI 1-1,text,true,,271,260,3,3,https://restful-booker.herokuapp.com/auth,2587,0,2256
+1683391973531,340,Create Booking,200,OK,BookingAPI 1-1,text,true,,448,462,4,4,https://restful-booker.herokuapp.com/booking,340,0,0
+1683391973531,340,Create Booking,200,OK,BookingAPI 1-2,text,true,,448,462,4,4,https://restful-booker.herokuapp.com/booking,340,0,0
+1683391972656,1340,Auth,200,OK,BookingAPI 1-3,text,true,,271,260,4,4,https://restful-booker.herokuapp.com/auth,1340,0,1014
+1683391973996,333,Create Booking,200,OK,BookingAPI 1-3,text,true,,448,462,4,4,https://restful-booker.herokuapp.com/booking,333,0,0
+1683391974331,381,GetBooking,200,OK,BookingAPI 1-3,text,true,,420,189,5,5,https://restful-booker.herokuapp.com/booking/791,381,0,0
+1683391973879,1100,GetBooking,200,OK,BookingAPI 1-1,text,true,,420,189,5,5,https://restful-booker.herokuapp.com/booking/780,1100,0,0
+1683391973879,1145,GetBooking,200,OK,BookingAPI 1-2,text,true,,420,189,5,5,https://restful-booker.herokuapp.com/booking/781,1145,0,0
+1683391973661,1377,Auth,200,OK,BookingAPI 1-4,text,true,,271,260,5,5,https://restful-booker.herokuapp.com/auth,1377,0,1051
+1683391974730,330,UpdateBooking ,200,OK,BookingAPI 1-3,text,true,,415,495,5,5,https://restful-booker.herokuapp.com/booking/791,330,0,0
+1683391974982,347,UpdateBooking ,200,OK,BookingAPI 1-1,text,true,,415,495,5,5,https://restful-booker.herokuapp.com/booking/780,347,0,0
+1683391975039,330,Create Booking,200,OK,BookingAPI 1-4,text,true,,448,462,5,5,https://restful-booker.herokuapp.com/booking,330,0,0
+1683391975028,344,UpdateBooking ,200,OK,BookingAPI 1-2,text,true,,415,495,5,5,https://restful-booker.herokuapp.com/booking/781,344,0,0
+1683391975061,339,GetBooking after Update,200,OK,BookingAPI 1-3,text,true,,415,189,5,5,https://restful-booker.herokuapp.com/booking/791,339,0,0
+1683391975330,322,GetBooking after Update,200,OK,BookingAPI 1-1,text,true,,415,189,6,6,https://restful-booker.herokuapp.com/booking/780,322,0,0
+1683391975370,320,GetBooking,200,OK,BookingAPI 1-4,text,true,,420,189,6,6,https://restful-booker.herokuapp.com/booking/807,320,0,0
+1683391975373,327,GetBooking after Update,200,OK,BookingAPI 1-2,text,true,,415,189,6,6,https://restful-booker.herokuapp.com/booking/781,327,0,0
+1683391975401,410,PartialUpdateBooking,200,OK,BookingAPI 1-3,text,true,,415,317,6,6,https://restful-booker.herokuapp.com/booking/791,410,0,0
+1683391975653,407,PartialUpdateBooking,200,OK,BookingAPI 1-1,text,true,,415,317,6,6,https://restful-booker.herokuapp.com/booking/780,407,0,0
+1683391975694,367,UpdateBooking ,200,OK,BookingAPI 1-4,text,true,,415,495,6,6,https://restful-booker.herokuapp.com/booking/807,367,0,0
+1683391975701,386,PartialUpdateBooking,200,OK,BookingAPI 1-2,text,true,,415,317,6,6,https://restful-booker.herokuapp.com/booking/781,385,0,0
+1683391974645,1587,Auth,200,OK,BookingAPI 1-5,text,true,,271,260,6,6,https://restful-booker.herokuapp.com/auth,1587,0,1166
+1683391975813,421,GetBooking after Partial Update,200,OK,BookingAPI 1-3,text,true,,415,189,6,6,https://restful-booker.herokuapp.com/booking/791,421,0,0
+1683391976062,391,GetBooking after Partial Update,200,OK,BookingAPI 1-1,text,true,,415,189,6,6,https://restful-booker.herokuapp.com/booking/780,391,0,0
+1683391976066,387,GetBooking after Update,200,OK,BookingAPI 1-4,text,true,,415,189,6,6,https://restful-booker.herokuapp.com/booking/807,387,0,0
+1683391976090,475,GetBooking after Partial Update,200,OK,BookingAPI 1-2,text,true,,415,189,6,6,https://restful-booker.herokuapp.com/booking/781,475,0,0
+1683391976236,341,DeleteBooking,201,Created,BookingAPI 1-3,text,true,,248,259,6,6,https://restful-booker.herokuapp.com/booking/791,341,0,0
+1683391976234,357,Create Booking,200,OK,BookingAPI 1-5,text,true,,448,462,5,5,https://restful-booker.herokuapp.com/booking,357,0,0
+1683391976454,324,PartialUpdateBooking,200,OK,BookingAPI 1-4,text,true,,415,317,6,6,https://restful-booker.herokuapp.com/booking/807,324,0,0
+1683391976454,327,DeleteBooking,201,Created,BookingAPI 1-1,text,true,,248,259,6,6,https://restful-booker.herokuapp.com/booking/780,327,0,0
+1683391976566,334,DeleteBooking,201,Created,BookingAPI 1-2,text,true,,248,259,5,5,https://restful-booker.herokuapp.com/booking/781,334,0,0
+1683391976593,345,GetBooking,200,OK,BookingAPI 1-5,text,true,,420,189,4,4,https://restful-booker.herokuapp.com/booking/821,345,0,0
+1683391976781,355,GetBooking after Partial Update,200,OK,BookingAPI 1-4,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/807,355,0,0
+1683391975648,1487,Auth,200,OK,BookingAPI 1-6,text,true,,271,260,4,4,https://restful-booker.herokuapp.com/auth,1487,0,1130
+1683391976948,344,UpdateBooking ,200,OK,BookingAPI 1-5,text,true,,415,495,4,4,https://restful-booker.herokuapp.com/booking/821,344,0,0
+1683391977138,313,Create Booking,200,OK,BookingAPI 1-6,text,true,,448,462,4,4,https://restful-booker.herokuapp.com/booking,313,0,0
+1683391977137,324,DeleteBooking,201,Created,BookingAPI 1-4,text,true,,248,259,4,4,https://restful-booker.herokuapp.com/booking/807,323,0,0
+1683391977295,326,GetBooking after Update,200,OK,BookingAPI 1-5,text,true,,415,189,3,3,https://restful-booker.herokuapp.com/booking/821,326,0,0
+1683391977455,309,GetBooking,200,OK,BookingAPI 1-6,text,true,,420,189,4,4,https://restful-booker.herokuapp.com/booking/833,308,0,0
+1683391977622,319,PartialUpdateBooking,200,OK,BookingAPI 1-5,text,true,,415,317,4,4,https://restful-booker.herokuapp.com/booking/821,319,0,0
+1683391976653,1289,Auth,200,OK,BookingAPI 1-7,text,true,,271,260,4,4,https://restful-booker.herokuapp.com/auth,1289,0,995
+1683391977778,289,UpdateBooking ,200,OK,BookingAPI 1-6,text,true,,415,495,4,4,https://restful-booker.herokuapp.com/booking/833,289,0,0
+1683391977944,307,Create Booking,200,OK,BookingAPI 1-7,text,true,,448,462,4,4,https://restful-booker.herokuapp.com/booking,307,0,0
+1683391977944,323,GetBooking after Partial Update,200,OK,BookingAPI 1-5,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/821,323,0,0
+1683391978068,307,GetBooking after Update,200,OK,BookingAPI 1-6,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/833,307,0,0
+1683391978268,333,DeleteBooking,201,Created,BookingAPI 1-5,text,true,,248,259,4,4,https://restful-booker.herokuapp.com/booking/821,333,0,0
+1683391978377,305,PartialUpdateBooking,200,OK,BookingAPI 1-6,text,true,,415,317,4,4,https://restful-booker.herokuapp.com/booking/833,305,0,0
+1683391977650,1211,Auth,200,OK,BookingAPI 1-8,text,true,,271,260,4,4,https://restful-booker.herokuapp.com/auth,1211,0,909
+1683391978684,308,GetBooking after Partial Update,200,OK,BookingAPI 1-6,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/833,308,0,0
+1683391978863,315,Create Booking,200,OK,BookingAPI 1-8,text,true,,448,462,4,4,https://restful-booker.herokuapp.com/booking,314,0,0
+1683391978993,325,DeleteBooking,201,Created,BookingAPI 1-6,text,true,,248,259,4,4,https://restful-booker.herokuapp.com/booking/833,325,0,0
+1683391978255,1187,GetBooking,200,OK,BookingAPI 1-7,text,true,,420,189,3,3,https://restful-booker.herokuapp.com/booking/844,1187,0,0
+1683391979185,330,GetBooking,200,OK,BookingAPI 1-8,text,true,,420,189,3,3,https://restful-booker.herokuapp.com/booking/849,330,0,0
+1683391979454,320,UpdateBooking ,200,OK,BookingAPI 1-7,text,true,,415,495,4,4,https://restful-booker.herokuapp.com/booking/844,320,0,0
+1683391979519,313,UpdateBooking ,200,OK,BookingAPI 1-8,text,true,,415,495,4,4,https://restful-booker.herokuapp.com/booking/849,313,0,0
+1683391978626,1367,Auth,200,OK,BookingAPI 1-9,text,true,,271,260,4,4,https://restful-booker.herokuapp.com/auth,1367,0,1028
+1683391979776,323,GetBooking after Update,200,OK,BookingAPI 1-7,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/844,323,0,0
+1683391979833,317,GetBooking after Update,200,OK,BookingAPI 1-8,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/849,317,0,0
+1683391979993,338,Create Booking,200,OK,BookingAPI 1-9,text,true,,448,462,4,4,https://restful-booker.herokuapp.com/booking,338,0,0
+1683391980109,311,PartialUpdateBooking,200,OK,BookingAPI 1-7,text,true,,415,317,4,4,https://restful-booker.herokuapp.com/booking/844,311,0,0
+1683391980151,312,PartialUpdateBooking,200,OK,BookingAPI 1-8,text,true,,415,317,4,4,https://restful-booker.herokuapp.com/booking/849,312,0,0
+1683391980336,342,GetBooking,200,OK,BookingAPI 1-9,text,true,,420,189,4,4,https://restful-booker.herokuapp.com/booking/853,342,0,0
+1683391980421,314,GetBooking after Partial Update,200,OK,BookingAPI 1-7,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/844,314,0,0
+1683391980464,325,GetBooking after Partial Update,200,OK,BookingAPI 1-8,text,true,,415,189,4,4,https://restful-booker.herokuapp.com/booking/849,325,0,0
+1683391979626,1385,Auth,200,OK,BookingAPI 1-10,text,true,,271,260,4,4,https://restful-booker.herokuapp.com/auth,1384,0,1016
+1683391980681,347,UpdateBooking ,200,OK,BookingAPI 1-9,text,true,,415,495,4,4,https://restful-booker.herokuapp.com/booking/853,347,0,0
+1683391980736,319,DeleteBooking,201,Created,BookingAPI 1-7,text,true,,248,259,4,4,https://restful-booker.herokuapp.com/booking/844,319,0,0
+1683391980790,368,DeleteBooking,201,Created,BookingAPI 1-8,text,true,,248,259,3,3,https://restful-booker.herokuapp.com/booking/849,368,0,0
+1683391981011,334,Create Booking,200,OK,BookingAPI 1-10,text,true,,448,462,2,2,https://restful-booker.herokuapp.com/booking,334,0,0
+1683391981029,337,GetBooking after Update,200,OK,BookingAPI 1-9,text,true,,415,189,2,2,https://restful-booker.herokuapp.com/booking/853,337,0,0
+1683391981346,325,GetBooking,200,OK,BookingAPI 1-10,text,true,,420,189,2,2,https://restful-booker.herokuapp.com/booking/854,325,0,0
+1683391981366,328,PartialUpdateBooking,200,OK,BookingAPI 1-9,text,true,,415,317,2,2,https://restful-booker.herokuapp.com/booking/853,328,0,0
+1683391981674,330,UpdateBooking ,200,OK,BookingAPI 1-10,text,true,,415,495,2,2,https://restful-booker.herokuapp.com/booking/854,330,0,0
+1683391981695,341,GetBooking after Partial Update,200,OK,BookingAPI 1-9,text,true,,415,189,2,2,https://restful-booker.herokuapp.com/booking/853,341,0,0
+1683391982005,318,GetBooking after Update,200,OK,BookingAPI 1-10,text,true,,415,189,2,2,https://restful-booker.herokuapp.com/booking/854,317,0,0
+1683391982037,331,DeleteBooking,201,Created,BookingAPI 1-9,text,true,,248,259,2,2,https://restful-booker.herokuapp.com/booking/853,331,0,0
+1683391982323,334,PartialUpdateBooking,200,OK,BookingAPI 1-10,text,true,,415,317,1,1,https://restful-booker.herokuapp.com/booking/854,334,0,0
+1683391982657,328,GetBooking after Partial Update,200,OK,BookingAPI 1-10,text,true,,415,189,1,1,https://restful-booker.herokuapp.com/booking/854,328,0,0
+1683391982985,338,DeleteBooking,201,Created,BookingAPI 1-10,text,true,,248,259,1,1,https://restful-booker.herokuapp.com/booking/854,338,0,0
